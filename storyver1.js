@@ -1,4 +1,5 @@
-﻿function makestory(){
+//copyright Peeko Math 2023
+function makestory(){
 var person=prompt("Enter a Name");
 var thing=prompt("Enter a Thing");
 var colour=prompt("Enter a Colour");
