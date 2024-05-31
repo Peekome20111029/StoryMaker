@@ -1,4 +1,4 @@
-//copyright Graham Hammond 2023
+//copyright Graham Hammond 2024
 function makestory(){
 var person=prompt("Enter a Name");
 var thing=prompt("Enter a Thing");
