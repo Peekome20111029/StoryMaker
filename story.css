@@ -1,0 +1,14 @@
+.output {
+  float: right;
+  border: ridge;
+}
+.input {
+  float: left;
+  border: ridge;
+}
+.def {
+  border: ridge;
+}
+.def:active {
+  border: dotted;
+}
